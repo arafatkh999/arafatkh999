@@ -1,4 +1,4 @@
-![image](https://pbs.twimg.com/profile_banners/839130663332687872/1688187300/1080x720)
+![image](https://pbs.twimg.com/profile_banners/839130663332687872/1688187300/100x100)
 
 
 <h1 align="center">Hi 👋, I'm Khondokar Arafat</h1>
