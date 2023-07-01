@@ -1,5 +1,5 @@
-![image](https://your-image-url.type)
-<img src="[https://pbs.twimg.com/profile_banners/839130663332687872/1688187300]" width="100" height="100">
+![image](https://pbs.twimg.com/profile_banners/839130663332687872/1688187300)
+<img src="[]" width="100" height="100">
 
 <h1 align="center">Hi 👋, I'm Khondokar Arafat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
