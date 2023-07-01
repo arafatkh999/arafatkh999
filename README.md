@@ -1,4 +1,5 @@
-(https://pbs.twimg.com/profile_banners/839130663332687872/1688187300/600x200)
+![image](https://pbs.twimg.com/profile_banners/839130663332687872/1688187300/600x200)
+
 <h1 align="center">Hi 👋, I'm Khondokar Arafat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
